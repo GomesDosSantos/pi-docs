@@ -11,7 +11,7 @@ Página inicial para a documentação do [Projeto Integrador](https://github.com
 (docs) $ pip install -requirements.txt
 ~~~
 
-#### Testes e Testes e Execução
+#### Testes e Execução
 
 ~~~shell
 (docs) $ cd mkdocs && mkdocs server
